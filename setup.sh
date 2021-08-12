@@ -74,5 +74,5 @@ echo
 echo
 echo "       [√] install commando done..."
 echo
-echo "     type python PREMFLIX2D.py to continue "
+echo "     type python2 PREMFLIX2D.py to continue "
 echo
