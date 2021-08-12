@@ -2,7 +2,7 @@
 #coding=utf-8
 #Jangan Di recod Juga ngentod
 #Recod boleh tapi kasih nama gue Tod
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,getpass
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
 for n in range(10000):
 
