@@ -81,17 +81,23 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print("""\033[1;91m          MF–FM–ˆMF–MFFM FMMF–‘FM–‘MF–ˆM&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»M&F
-\033[1;91m          FM–‘MF–ˆFM–‘FMF MFMF–ˆMF–„FM–ˆM&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»M&F
-\033[1;91m          F–MF–ˆF–MFMFM–„F–MF–ˆMFMF–ˆM–FM–„F–FM–ˆFFM–ˆMFFM–ˆM–MF–„F–FM–ˆ
-\033[1;91m          F–ˆMF–‘MFMF–ˆF–MF–ˆMFMF–ˆF–‘F–MF–‘M–ˆMFFM–ˆMFFM–ˆF–‘F–MF–‘F–ˆ
-\033[1;91m          M&F»M&F»M&F»M&F»M&F»M&F»M&F»   ╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮
-\033[1;91m          M&F»M&F¹M&F¹M&F¹M&F¹M&F¹M&F»   ╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯
-\033[1;97m          M&F»M&F¹M&F¹M&F¹M&F¹M&F¹M&F»   ┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈
-\033[1;97m          M&F»M&F¹M&F¹M&F¹M&F¹M&F¹M&F»   ┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈
-\033[1;97m          M&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»   ╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮
-\033[1;97m          M&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»   ╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯
-\033[1;97m          M&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»        INDONESIA NEGARAKU TEMPAT KELAHIRANKU""")
+print("""\033[1;91m          MF–FM–ˆMF–MFFM FMMF–‘FM–‘MF–ˆM&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»MF
+\033[1;91m          FM–‘MF–ˆFM–‘FMF MFMF–ˆMF–„FM–ˆM&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»MF
+\033[1;91m          F–MF–ˆF–MFMFM–„F–MF–ˆMFMF–ˆM–FM–„F–FM–ˆFFM–ˆMFFM–ˆM–MF–„F–FM
+\033[1;91m          F–ˆMF–‘MFMF–ˆF–MF–ˆMFMF–ˆF–‘F–MF–‘M–ˆMFFM–ˆMFFM–ˆF–‘F–MF–‘FM
+\033[1;91m          M&F»M&F»M&F»M&F»M&F»M&F»M&F»  ╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮
+\033[1;91m          M&F»M&F¹M&F¹M&F¹M&F¹M&F¹M&F»  ╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯
+\033[1;97m          M&F»M&F¹M&F¹M&F¹M&F¹M&F¹M&F»  ┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈
+\033[1;97m          M&F»M&F¹M&F¹M&F¹M&F¹M&F¹M&F»  ┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈
+\033[1;97m          M&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»  ╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮
+\033[1;97m          M&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»  ╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯
+\033[1;97m          M&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»    INDONESIA NEGARAKU TEMPAT KELAHIRANKU
+\033[1;97m          _______    ______   _____    _____    ______         __
+\033[1;97m         |   |   |  |______  |_____\  |     \  |______  |__/   /\
+\033[1;97m         |   |   |  |______  |     \  |_____/  |______  |  \  /  \
+\033[1;97m     ♡ HARI NASIONAL HARI KEMERDEKAAN INDONESIA YANG KE 76 TAHUN ♡
+\033[1;97m            PEMBUAT SCRIP : MILZU-TC       SUBSCRIBE : MILZU-TC TUTORIAL77
+\033[1;97m_____________________________________________________________________________________________________""")
 
 CorrectPasscode = "MILZU&FIRDOOS"
 
