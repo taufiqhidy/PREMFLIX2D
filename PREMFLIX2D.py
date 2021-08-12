@@ -82,7 +82,6 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print(""")
-"""
 "\033[1;93m          MF–FM–ˆMF–MFFM FMMF–‘FM–‘MF–ˆ"
 "\033[1;93m          FM–‘MF–ˆFM–‘FMF MFMF–ˆMF–„FM–ˆ"
 "\033[1;92m          F–MF–ˆF–MFMFM–„F–MF–ˆMFMF–ˆM–FM–„F–FM–ˆFFM–ˆMFFM–ˆM–MF–„F–FM–ˆ"
@@ -100,8 +99,7 @@ print(""")
 
 #====Logo=====#
 
-"""
-print("""logo1""")
+print("logo1")
 "\033[1;91m              __________      ________      ________      "
 "\033[1;92m            /    ____   /    /   ___  \   /  ______/     ______   "
 "\033[1;93m          /    /___/  /     /  /___/  /  /   ______/    /       \  "
@@ -110,9 +108,7 @@ print("""logo1""")
 "\033[1;96m                  PREMIUM                  PREMIUM"
 "\033[1;97m      PREMIRE                  PREMIRE                  PREMIRE"
 
-"""
-"""
-print("""logo2""")
+print("logo2")
 "\033[1;97m               ____      ____         _____________                                              "
 "\033[1;91m              /    \    /    \       |   ________ /                                              "
 "\033[1;92m             /  /\  \  /  /\  \      |  |________                                                "
@@ -125,15 +121,13 @@ print("""logo2""")
 "\033[1;96m           |_____    |        |  |         /  _____  \       |   ____  \            |  |         "
 "\033[1;95m           ______|   |        |  |        /  /     \  \      |  |    \  \           |  |         "
 "\033[1;94m         /___________|        |__|       /__/       \__\     |__|     \__\          |__|         "       
-      
-"""    
+        
 print("\033[1;92mWELCOME TO MILZU&FIRDOOS")
             loop = 'false'
     else:
             print("\033[1;91m^-M&F-^¸WRONG")
             os.system('xdg-open https://facebook.com/profile.php?id=100071289164743 ')
 #====LICENSE=====#
-#=================#
 def lisensi():
     os.system('clear')
     logine()
