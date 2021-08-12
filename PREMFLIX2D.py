@@ -32,7 +32,6 @@ from requests.exceptions import ConnectionError
 from mechanize import Browser
 
 
-reload(sys)
 sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
 br.set_handle_robots(False)
