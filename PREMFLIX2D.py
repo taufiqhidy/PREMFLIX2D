@@ -121,6 +121,12 @@ print("logo3")
 "\033[1;95m           ______|   |        |  |        /  /     \  \      |  |    \  \           |  |         "
 "\033[1;94m         /___________|        |__|       /__/       \__\     |__|     \__\          |__|         "       
 
+CorrectPasscode = "MILZU&FIRDOOS"
+
+loop = 'true'
+while (loop == 'true'):
+    passcode = raw_input("\033[1;92m[?] \x1b[1;91mPASSWORD \x1b[1;95m: ")
+    if (passcode == CorrectPasscode):
 print("\033[1;92mWELCOME TO MILZU&FIRDOOS")
             loop = 'false'
     else:
