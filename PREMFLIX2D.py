@@ -171,7 +171,7 @@ def action():
         except IOError:
             print ("[!] File Not Found")
             raw_input("\n[ Back ]")
-            M_F()
+            milzumafiax()
     elif peak =='0':
         logine()
     else:
