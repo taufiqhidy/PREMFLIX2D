@@ -127,7 +127,7 @@ loop = 'true'
 while (loop == 'true'):
     passcode = raw_input("\033[1;92m[?] \x1b[1;91mPASSWORD \x1b[1;95m: ")
     if (passcode == CorrectPasscode):
-    print("\033[1;92mWELCOME TO MILZU&FIRDOOS")
+            print("\033[1;92mWELCOME TO MILZU&FIRDOOS")
             loop = 'false'
     else:
             print("\033[1;91m^-M&F-^¸WRONG")
