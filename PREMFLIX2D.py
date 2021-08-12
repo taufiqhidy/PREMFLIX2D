@@ -81,7 +81,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print(""")
+print()
 """
 "\033[1;93m          MF–FM–ˆMF–MFFM FMMF–‘FM–‘MF–ˆ"
 "\033[1;93m          FM–‘MF–ˆFM–‘FMF MFMF–ˆMF–„FM–ˆ"
@@ -101,8 +101,8 @@ print(""")
 #====Logo=====#
 
 """
-def logo1:
-print(""")
+def logo1():
+print()
 """
 "\033[1;91m              __________      ________      ________      "
 "\033[1;92m            /    ____   /    /   ___  \   /  ______/     ______   "
@@ -114,7 +114,7 @@ print(""")
 
 """
 """
-def logo2:
+def logo2():
 print(""")
 """
 "\033[1;97m               ____      ____         _____________                                              "
@@ -143,10 +143,10 @@ def lisensi():
 #====logine=====#
 def logine():
     os.system('clear')
-    print logo1
-    print "\033[1;96m[1]\x1b[1;93mStart cloning ( no logine )"
+    print("logo1")
+    print("\033[1;96m[1]\x1b[1;93mStart cloning ( no logine )")
     time.sleep(0.05)
-    print '\x1b[1;95m[0]\033[1;92m Exit (Coming Soon)'
+    print('\x1b[1;95m[0]\033[1;92m Exit (Coming Soon)')
     pilih_logine()
 
 def pilih_logine():
