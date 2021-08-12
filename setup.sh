@@ -67,7 +67,7 @@ echo "       ________   ______    ______   _______  ______        _         " | 
 echo "         |     |  |     \   |_____  |   |   | |_____  |     |   \ /   " | lolcat
 echo "         |____/   |_____/   |_____  |   |   | |       |____ |   / \   " | lolcat
 echo "  _______|________|_____\___________|___|___|________________________ " | lolcat
-echo "    PREMFLIX            YOUTUBE MILZU-TC TOTORIAL77                     | lolcat
+echo "    PREMFLIX            YOUTUBE MILZU-TC TOTORIAL77                   " | lolcat
 echo
 clear
 echo
