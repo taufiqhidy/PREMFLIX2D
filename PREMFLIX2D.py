@@ -171,9 +171,9 @@ def action():
         except IOError:
             print ("[!] File Not Found")
             raw_input("\n[ Back ]")
-            M&F()
+            M_F()
     elif peak =='0':
-        login()
+        logine()
     else:
         print('[!] Fill In Correctly')
         action()
