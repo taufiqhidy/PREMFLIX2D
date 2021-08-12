@@ -81,7 +81,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print()
+print(""")
 """
 "\033[1;93m          MF–FM–ˆMF–MFFM FMMF–‘FM–‘MF–ˆ"
 "\033[1;93m          FM–‘MF–ˆFM–‘FMF MFMF–ˆMF–„FM–ˆ"
