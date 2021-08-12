@@ -95,7 +95,7 @@ print("logo1")
 "\033[1;94m          M&F»M&F¹M&F¹M&F¹M&F¹M&F¹M&F»"
 "\033[1;95m          M&F»M&F»M&F»M&F»M&F»M&F»M&F»"
 "\033[1;96m          WHATSAPP NUMBER +62 31 2776 8957      ++966 54 399 2329"
-"""
+
 os.system ("clear")
 print("logo2")
 "\033[1;91m              __________      ________      ________      "
@@ -105,7 +105,7 @@ print("logo2")
 "\033[1;95m      /__/                /__/  \__\   /________/     /__/     \__\  "
 "\033[1;96m                  PREMIUM                  PREMIUM"
 "\033[1;97m      PREMIRE                  PREMIRE                  PREMIRE"
-"""
+
 os.system ("clear")
 print("logo3")
 "\033[1;97m               ____      ____         _____________                                              "
@@ -120,7 +120,7 @@ print("logo3")
 "\033[1;96m           |_____    |        |  |         /  _____  \       |   ____  \            |  |         "
 "\033[1;95m           ______|   |        |  |        /  /     \  \      |  |    \  \           |  |         "
 "\033[1;94m         /___________|        |__|       /__/       \__\     |__|     \__\          |__|         "       
-"""   
+
 print("\033[1;92mWELCOME TO MILZU&FIRDOOS")
             loop = 'false'
     else:
