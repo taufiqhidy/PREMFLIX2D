@@ -81,7 +81,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print("logo1")
+print("logo1"):
 "\033[1;93m          MF–FM–ˆMF–MFFM FMMF–‘FM–‘MF–ˆ"
 "\033[1;93m          FM–‘MF–ˆFM–‘FMF MFMF–ˆMF–„FM–ˆ"
 "\033[1;92m          F–MF–ˆF–MFMFM–„F–MF–ˆMFMF–ˆM–FM–„F–FM–ˆFFM–ˆMFFM–ˆM–MF–„F–FM–ˆ"
@@ -97,7 +97,7 @@ print("logo1")
 "\033[1;96m          WHATSAPP NUMBER +62 31 2776 8957      ++966 54 399 2329"
 
 os.system ("clear")
-print("logo2")
+print("logo2"):
 "\033[1;91m              __________      ________      ________      "
 "\033[1;92m            /    ____   /    /   ___  \   /  ______/     ______   "
 "\033[1;93m          /    /___/  /     /  /___/  /  /   ______/    /       \  "
@@ -107,7 +107,7 @@ print("logo2")
 "\033[1;97m      PREMIRE                  PREMIRE                  PREMIRE"
 
 os.system ("clear")
-print("logo3")
+print("logo3"):
 "\033[1;97m               ____      ____         _____________                                              "
 "\033[1;91m              /    \    /    \       |   ________ /                                              "
 "\033[1;92m             /  /\  \  /  /\  \      |  |________                                                "
