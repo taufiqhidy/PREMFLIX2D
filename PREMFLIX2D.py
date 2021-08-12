@@ -24,7 +24,7 @@ try:
 except ImportError:
     os.system('pip2 install request')
     time.sleep(1)
-    os.system('Then type: python PREMFILX2D.py')
+    os.system('Then type: python2 PREMFILX2D.py')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,requests,mechanize
 from multiprocessing.pool import ThreadPool
