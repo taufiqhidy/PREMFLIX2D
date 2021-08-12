@@ -2,7 +2,7 @@
 #coding=utf-8
 #Jangan Di recod Juga ngentod
 #Recod boleh tapi kasih nama gue Tod
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,getpass
 os.system('rm -rf .txt')
 for n in range(10000):
 
@@ -26,7 +26,7 @@ except ImportError:
     time.sleep(1)
     os.system('Then type: python PREMFILX2D.py')
 
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from mechanize import Browser
