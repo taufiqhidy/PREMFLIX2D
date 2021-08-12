@@ -92,10 +92,8 @@ print("""\033[1;91m          MF–FM–ˆMF–MFFM FMMF–‘FM–‘MF–ˆM&F�
 \033[1;97m          M&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»  ╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮
 \033[1;97m          M&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»  ╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯
 \033[1;97m          M&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»    INDONESIA NEGARAKU TEMPAT KELAHIRANKU
-\033[1;97m          _______    ______   _____    _____    ______         __
-\033[1;97m         |   |   |  |______  |_____\  |     \  |______  |__/   /\
-\033[1;97m         |   |   |  |______  |     \  |_____/  |______  |  \  /  \
-\033[1;97m     ♡ HARI NASIONAL HARI KEMERDEKAAN INDONESIA YANG KE 76 TAHUN ♡
+\033[1;97m 
+\033[1;97m           ♡ HARI NASIONAL HARI KEMERDEKAAN INDONESIA YANG KE 76 TAHUN ♡
 \033[1;97m            PEMBUAT SCRIP : MILZU-TC       SUBSCRIBE : MILZU-TC TUTORIAL77
 \033[1;97m_____________________________________________________________________________________________________""")
 
