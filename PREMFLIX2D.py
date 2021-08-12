@@ -95,7 +95,6 @@ print(""")
 "\033[1;94m          M&F»M&F¹M&F¹M&F¹M&F¹M&F¹M&F»"
 "\033[1;95m          M&F»M&F»M&F»M&F»M&F»M&F»M&F»"
 "\033[1;96m          WHATSAPP NUMBER +62 31 2776 8957      ++966 54 399 2329"
-"""
 
 #====Logo=====#
 
