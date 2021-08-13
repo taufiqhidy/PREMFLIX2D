@@ -77,8 +77,28 @@ back = 0
 ok = []
 id = []
 cp = []
-vulnot = "\033[31mNot Vuln"
-vuln = "\033[32mVuln"
+
+ct = datetime.now()
+n = ct.month
+bulan = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"]
+try:
+    if n < 0 or n > 12:
+        exit()
+    nTemp = n - 1
+except ValueError:
+    exit()
+
+current = datetime.now()
+ta = current.year
+bu = current.month
+ha = current.day
+op = bulan[nTemp]
+
+my_date = date.today()
+hr = calendar.day_name[my_date.weekday()]
+tanggal = ("%s-%s-%s-%s"%(hr, ha, op, ta))
+tgl = ("%s %s %s"%(ha, op, ta))
+bulan_ttl = {"01": "Januari", "02": "Februari", "03": "Maret", "04": "April", "05": "Mei", "06": "Juni", "07": "Juli", "08": "Agustus", "09": "September", "10": "Oktober", "11": "November", "12": "Desember"}
 
 os.system("clear")
 print("""\033[1;91m          MF–FM–ˆMF–MFFM FMMF–‘FM–‘MF–ˆM&F»M&F¹M&F¾M&F·M&F¾M&F¹M&F»MF
