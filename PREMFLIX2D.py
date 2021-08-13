@@ -143,9 +143,9 @@ def logine():
 \033[1;97m                    PREMIUM               PREMIUM
 \033[1;97m         PREMIRE               PREMIRE               PREMIRE""")
       
-print "\033[1;96m[1]\x1b[1;93mMÛŁÂÎ ČŘÂČĶ👉"
+    print("\033[1;96m[1]\x1b[1;93mMÛŁÂÎ ČŘÂČĶ👉")
     time.sleep(0.05)
-    print '\x1b[1;95m[0]\033[1;92m ĶÊŁÛÂŘ👉 (Coming Soon)'
+    print("\x1b[1;95m[0]\033[1;92m ĶÊŁÛÂŘ👉 (Coming Soon)")
     pilih_logine()
 
 def pilih_logine():
