@@ -151,7 +151,9 @@ AmbilPasscode5 = "JEPACRACK"
 AmbilPasscode6 = "RUSICRACK"
 AmbilPasscode7 = "CHINACRACK"
 AmbilPasscode8 = "LAOS"
-
+if __name__ == '__main__':
+               try:
+                   ses = requests.Session()
     print(" 1 MULAI CRACK NEGARA INDONESIA")
     print(" 2 MULAI CRACK NEGARA AMERICA")
     print(" 3 MULAI CRACK NEGARA PAKISTAN")
