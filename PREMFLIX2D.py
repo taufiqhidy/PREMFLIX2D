@@ -150,9 +150,8 @@ AmbilPasscode4 = "KORECRACK"
 AmbilPasscode5 = "JEPACRACK"
 AmbilPasscode6 = "RUSICRACK"
 AmbilPasscode7 = "CHINACRACK"
-AmbilPasscode8 = "LAOSCRACK"
+AmbilPasscode8 = "LAOS"
 
-    print("SILAHKAN CRACK FACEBOOK NEGARA DIBAWAH INI")
     print(" 1 MULAI CRACK NEGARA ( INDONESIA )")
     print(" 2 MULAI CRACK NEGARA ( AMERICA )")
     print(" 3 MULAI CRACK NEGARA ( PAKISTAN )")
