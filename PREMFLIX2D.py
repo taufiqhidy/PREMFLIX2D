@@ -152,16 +152,16 @@ AmbilPasscode6 = "RUSICRACK"
 AmbilPasscode7 = "CHINACRACK"
 AmbilPasscode8 = "LAOS"
 
-    print(" 1 MULAI CRACK NEGARA ( INDONESIA )")
-    print(" 2 MULAI CRACK NEGARA ( AMERICA )")
-    print(" 3 MULAI CRACK NEGARA ( PAKISTAN )")
-    print(" 4 MULAI CRACK NEGARA ( KOREA )")
-    print(" 5 MULAI CRACK NEGARA ( JEPANG )")
-    print(" 6 MULAI CRACK NEGARA ( RUSIA )")
-    print(" 7 MULAI CRACK NEGARA ( CHINA )")
-    print(" 8 MULAI CRACK NEGARA ( LAOS )")
+    print(" 1 MULAI CRACK NEGARA INDONESIA")
+    print(" 2 MULAI CRACK NEGARA AMERICA")
+    print(" 3 MULAI CRACK NEGARA PAKISTAN")
+    print(" 4 MULAI CRACK NEGARA KOREA")
+    print(" 5 MULAI CRACK NEGARA JEPANG")
+    print(" 6 MULAI CRACK NEGARA RUSIA")
+    print(" 7 MULAI CRACK NEGARA CHINA")
+    print(" 8 MULAI CRACK NEGARA LAOS")
     print(" 0 Exit (Coming Soon)")
-    MF = raw_input("\033[1;92m[?] \x1b[1;91mKATASANDI/PASSWORD \x1b[1;95m: ")
+    MF = raw_input("\n ▪▪▪Pilih ►: ")
     if MF =="":
 		menu()
 	elif MF == "1" or MF == "01":
