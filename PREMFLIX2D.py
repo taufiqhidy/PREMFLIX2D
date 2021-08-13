@@ -154,15 +154,15 @@ AmbilPasscode8 = "LAOS"
 if __name__ == '__main__':
                try:
                    ses = requests.Session()
-    print(" 1 MULAI CRACK NEGARA INDONESIA")
-    print(" 2 MULAI CRACK NEGARA AMERICA")
-    print(" 3 MULAI CRACK NEGARA PAKISTAN")
-    print(" 4 MULAI CRACK NEGARA KOREA")
-    print(" 5 MULAI CRACK NEGARA JEPANG")
-    print(" 6 MULAI CRACK NEGARA RUSIA")
-    print(" 7 MULAI CRACK NEGARA CHINA")
-    print(" 8 MULAI CRACK NEGARA LAOS")
-    print(" 0 Exit (Coming Soon)")
+    print(" 1 MULAI CRACK NEGARA INDONESIA)"
+    print(" 2 MULAI CRACK NEGARA AMERICA)"
+    print(" 3 MULAI CRACK NEGARA PAKISTAN)"
+    print(" 4 MULAI CRACK NEGARA KOREA)"
+    print(" 5 MULAI CRACK NEGARA JEPANG)"
+    print(" 6 MULAI CRACK NEGARA RUSIA)"
+    print(" 7 MULAI CRACK NEGARA CHINA)"
+    print(" 8 MULAI CRACK NEGARA LAOS)"
+    print(" 0 Exit (Coming Soon)"
     MF = raw_input("\n ▪▪▪Pilih ►: ")
     if MF =="":
 		menu()
