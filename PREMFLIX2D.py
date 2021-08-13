@@ -143,10 +143,112 @@ def logine():
 \033[1;96m                  PREMIUM                  PREMIUM
 \033[1;97m      PREMIRE                  PREMIRE                  PREMIRE""")
 
+AmbilPasscode1 = "INDOCRACK"
+AmbilPasscode2 = "AMERCRACK"
+AmbilPasscode3 = "PAKICRACK"
+AmbilPasscode4 = "KORECRACK"
+AmbilPasscode5 = "JEPACRACK"
+AmbilPasscode6 = "RUSICRACK"
+AmbilPasscode7 = "CHINACRACK"
+AmbilPasscode8 = "LAOSCRACK"
 
-    print("\033[1;96m[1]\x1b[1;93mStart cloning ( no logine )")
-    time.sleep(0.05)
-    print('\x1b[1;95m[0]\033[1;92m Exit (Coming Soon)')
+            {"SILAHKAN CRACK FACEBOOK NEGARA DIBAWAH INI"}
+    print(" 1 MULAI CRACK NEGARA ( INDONESIA )")
+    print(" 2 MULAI CRACK NEGARA ( AMERICA )")
+    print(" 3 MULAI CRACK NEGARA ( PAKISTAN )")
+    print(" 4 MULAI CRACK NEGARA ( KOREA )")
+    print(" 5 MULAI CRACK NEGARA ( JEPANG )")
+    print(" 6 MULAI CRACK NEGARA ( RUSIA )")
+    print(" 7 MULAI CRACK NEGARA ( CHINA )")
+    print(" 8 MULAI CRACK NEGARA ( LAOS )")
+    print(" 0 Exit (Coming Soon)")
+    MF = raw_input("\033[1;92m[?] \x1b[1;91mKATASANDI/PASSWORD \x1b[1;95m: ")
+    if MF =="":
+		menu()
+	elif MF == "1" or MF == "01":
+		INDO()
+		method()
+	elif MF == "2" or MF == "02":
+		AMER()
+		method()
+	elif MF == "3" or MF == "03":
+		PAKIS()
+		method()
+	elif MF == "4" or MF == "04":
+                KOREA()
+                method()
+	elif MF == "5" or MF == "05":
+		JAPAN()
+		method()
+	elif MF == "6" or MF == "06":
+		RUSIA()
+		method()
+	elif MF == "7" or MF == "07":
+		CHINA()
+		method()
+	elif MF == "8" or MF == "08":
+                LAOS()
+                method()
+        else:
+		menu()
+
+def INDO():
+loop = 'true'
+while (loop == 'true'):
+    passcode = raw_input("\033[1;92m[?] \x1b[1;91mPASSWORD \x1b[1;95m: ")
+    if (passcode == AmbilPasscode1):
+            print("\033[1;92mSELAMAT DATANG ORANG INDO")
+            loop = 'false'
+def AMER():
+loop = 'true'
+while (loop == 'true'):
+    passcode = raw_input("\033[1;92m[?] \x1b[1;91mPASSWORD \x1b[1;95m: ")
+    if (passcode == AmbilPasscode2):
+            print("\033[1;92mWELCOME TO AMERICA")
+            loop = 'false'
+def PAKIS():
+loop = 'true'
+while (loop == 'true'):
+    passcode = raw_input("\033[1;92m[?] \x1b[1;91mPASSWORD \x1b[1;95m: ")
+    if (passcode == AmbilPasscode3):
+            print("\033[1;92mWELCOME TO PAKISTAN")
+            loop = 'false'
+def KOREA():
+loop = 'true'
+while (loop == 'true'):
+    passcode = raw_input("\033[1;92m[?] \x1b[1;91mPASSWORD \x1b[1;95m: ")
+    if (passcode == AmbilPasscode4):
+            print("\033[1;92mWELCOME TO KOREA")
+            loop = 'false'
+def JAPAN():
+loop = 'true'
+while (loop == 'true'):
+    passcode = raw_input("\033[1;92m[?] \x1b[1;91mPASSWORD \x1b[1;95m: ")
+    if (passcode == AmbilPasscode5):
+            print("\033[1;92mWELCOME TO JAPANSE")
+            loop = 'false'
+def RUSIA():
+loop = 'true'
+while (loop == 'true'):
+    passcode = raw_input("\033[1;92m[?] \x1b[1;91mPASSWORD \x1b[1;95m: ")
+    if (passcode == AmbilPasscode6):
+            print("\033[1;92mWELCOME TO RUSSIAN")
+            loop = 'false'
+def CHINA():
+loop = 'true'
+while (loop == 'true'):
+    passcode = raw_input("\033[1;92m[?] \x1b[1;91mPASSWORD \x1b[1;95m: ")
+    if (passcode == AmbilPasscode7):
+            print("\033[1;92mWELCOME TO CHINSE")
+            loop = 'false'
+def LAOS()
+loop = 'true'
+while (loop == 'true'):
+    passcode = raw_input("\033[1;92m[?] \x1b[1;91mPASSWORD \x1b[1;95m: ")
+    if (passcode == AmbilPasscode8):
+            print("\033[1;92mWELCOME TO LAOS")
+            loop = 'false'
+def publik():
     pilih_logine()
 
 def pilih_logine():
